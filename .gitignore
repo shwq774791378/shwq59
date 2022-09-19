@@ -1,0 +1,18 @@
+output
+.DS_Store
+node_modules/
+npm-debug.log
+crash.log
+tmp/
+/vendor/
+.bundle
+build.txt
+
+# build artifacts
+atom.html
+atom.pdf
+atom.pdfmarks
+atom.epub
+atom-kf8.epub
+atom.mobi
+/images/
